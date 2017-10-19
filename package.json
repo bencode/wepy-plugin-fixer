@@ -1,0 +1,13 @@
+{
+  "name": "wepy-plugin-fixer",
+  "version": "1.0.0",
+  "description": "修复wepy应用过程中的一些问题",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "xmldom": "^0.1.27"
+  }
+}
