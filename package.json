@@ -1,6 +1,6 @@
 {
   "name": "wepy-plugin-fixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "修复wepy应用过程中的一些问题",
   "main": "lib/index.js",
   "scripts": {
